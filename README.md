@@ -5,19 +5,19 @@ First, we developed the front end using React.js. Then we used Node.js for data 
 After this, we worked on the admin side: how admin can manage new or existing products, a user, order details, etc. Then we made a full checkout page with several ways to pay, and we put the project online using Heroku, which is a cloud application platform. 
 
 FEATURES: 
-Full featured shopping cart
-Product reviews and ratings
-Top products carousel
-Product pagination
-Product search feature
-User profile with orders
-Admin product management
-Admin user management
-Admin Order details page
-Mark orders as delivered option
-Checkout process (shipping, payment method, etc)
-PayPal / credit card integration
-Database seeder (products & users)
+1) Full featured shopping cart
+2) Product reviews and ratings
+3) Top products carousel
+4) Product pagination
+5) Product search feature
+6) User profile with orders
+7) Admin product management
+8) Admin user management
+9) Admin Order details page
+10) Mark orders as delivered option
+11) Checkout process(shipping, payment method, etc)
+12) PayPal / credit card integration
+13) Database seeder (products & users)
 
 You can check out the working project here: readytoeat.herokuapp.com/
 Thank you ;)
